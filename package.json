@@ -1,0 +1,14 @@
+{
+  "author": {
+    "name": "Ilya Goryachev",
+    "email": "ilyatos.gor@gmail.com"
+  },
+  "type": "module",
+  "dependencies": {
+    "inquirer": "^9.1.4"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^18.14.0"
+  }
+}
